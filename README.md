@@ -7,4 +7,4 @@ The websites being scraped are specdarbai.lt, komfortocentras.lt, kondicionieria
 
 This scraper can be useful to reuse for someone who needs to monitor the price of a product across multiple websites and wants to store the data in a MySQL database for further analysis or tracking
 
-Completed during studies at Vilnius CODING School for Python course.
+Completed during Data Analytics studies at Vilnius CODING School for Python course.
